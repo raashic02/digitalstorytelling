@@ -1,0 +1,27 @@
+body {
+  background-color: lightskyblue;
+}
+
+h1 {
+  color: blue;
+  font-family: Helvetica;
+  border: 10px dotted red;
+  padding: 50px;
+}
+
+h3 {
+  color: darkolivegreen;
+  font-family: sans-serif;
+}
+
+p {
+  color: blueviolet;
+  font-family: "Times New Roman";
+}
+
+img {
+  border: 10px dotted red;
+  width: 25%;
+  height: 25%;
+  margin-left: 400px;
+}
